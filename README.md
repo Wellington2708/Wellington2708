@@ -1,11 +1,11 @@
-### Hi there 👋
+### Hello World 👋
 
 
 
 - 🔭 I’m currently working on in factory.
-- 🌱 I’m currently learning Javascript.
+- 🌱 I’m currently learning Javascript, Typescript, React e Node.JS.
 - 📫 How to reach me: https://www.linkedin.com/in/wellington-junior-41513874/
-- ⚡ Fun fact: I'm in a career transition, joining the technology area, more specifically FrontEnd.
+- ⚡ I have a residence permit in Portugal.
 
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wellington2708&show_icons=true&theme=merko)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wellington2708&layout=donut)](https://github.com/Wellington2708/)
