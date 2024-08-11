@@ -6,6 +6,8 @@
 - 🌱 I’m currently learning Javascript, Typescript, React e Node.JS.
 - 📫 How to reach me: https://www.linkedin.com/in/wellington-junior-41513874/
 - ⚡ I have a residence permit in Portugal.
+- 📫 [My Portfoly](https://portfolio-react-kohl-ten.vercel.app/)
+
 
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wellington2708&show_icons=true&theme=merko)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wellington2708&layout=donut)](https://github.com/Wellington2708/)
